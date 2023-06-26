@@ -1,7 +1,7 @@
 # Pacman
 Descripción: Pacman es un ejercicio en donde hacemos manipulación del DOM por medio de Js. En este ejercicio se puede observar como se adicionan elementos al HTML cada vez que se hace "click" a un boton dentro de la interfaz. 
 
-Como ejecutarlo / How to run: 
+# Como ejecutarlo / How to run: 
 
 1. Abre el archivo Index.html en el nevegador de preferencia 
 2. Una vez abierto, se deben observar dos botones: "Add pacman" y "Start game"
@@ -10,7 +10,7 @@ Como ejecutarlo / How to run:
 5. Cada vez que se desee reiniciar el juego, se debe recargar la pestaña. 
 
 
-Ruta de trabajo a futuro / roadmap of future work: 
+# Ruta de trabajo a futuro / roadmap of future work: 
 
 En esta versión inicial de pacman se desea incorporar los siguientes elementos: 
 
@@ -18,7 +18,9 @@ En esta versión inicial de pacman se desea incorporar los siguientes elementos:
 2. Incorporación de barreras dentro de la interfaz para que los pacman encuentren mas elementos para  rebotar
 3. Incorporar funcionalidad para que el usuario maneje un pacman por medio de los controles de la computadora
 
-Información del Lisencia / license information: MIT licese 
+# Información del Lisencia / license information:
+
+ MIT license
 
 
 
